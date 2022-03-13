@@ -1,4 +1,5 @@
-# Read Me First
+# Read Me First 
+Please view me in 'raw' mode, as requests and responses mentioned below will be better visible in formatted manner. Thanks!
 
 
 #Abstract
